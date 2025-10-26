@@ -1,0 +1,56 @@
+2025-10-23T13:08:04.641Z [info]: Found OpenAI API key in environment variables
+{
+  "service": "database-designer"
+}
+2025-10-23T13:08:04.665Z [info]: OpenAI client initialized successfully with SSL verification disabled
+{
+  "service": "database-designer"
+}
+2025-10-23T13:08:04.675Z [info]: Found OpenAI API key for prompt enhancer service
+{
+  "service": "database-designer"
+}
+2025-10-23T13:08:04.722Z [info]: OpenAI client initialized successfully for prompt enhancer
+{
+  "service": "database-designer"
+}
+2025-10-23T13:08:05.868Z [info]: Gemini Service initialized successfully with model: gemini-2.5-flash
+{
+  "service": "database-designer"
+}
+2025-10-23T13:08:05.889Z [info]: Gemini Prompt Enhancer Service initialized successfully with model: gemini-2.5-flash
+{
+  "service": "database-designer"
+}
+2025-10-23T13:08:05.952Z [info]: Server running on port 4000
+{
+  "service": "database-designer"
+}
+2025-10-23T15:55:51.606Z [info]: Found OpenAI API key in environment variables
+{
+  "service": "database-designer"
+}
+2025-10-23T15:55:51.613Z [info]: OpenAI client initialized successfully with SSL verification disabled
+{
+  "service": "database-designer"
+}
+2025-10-23T15:55:51.622Z [info]: Found OpenAI API key for prompt enhancer service
+{
+  "service": "database-designer"
+}
+2025-10-23T15:55:51.623Z [info]: OpenAI client initialized successfully for prompt enhancer
+{
+  "service": "database-designer"
+}
+2025-10-23T15:55:51.969Z [info]: Gemini Service initialized successfully with model: gemini-2.5-flash
+{
+  "service": "database-designer"
+}
+2025-10-23T15:55:51.979Z [info]: Gemini Prompt Enhancer Service initialized successfully with model: gemini-2.5-flash
+{
+  "service": "database-designer"
+}
+2025-10-23T15:55:51.998Z [info]: Server running on port 4000
+{
+  "service": "database-designer"
+}
